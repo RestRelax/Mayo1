@@ -1,8 +1,8 @@
 
 /**
- * Write a description of class Mayo here.
+ * Write a description of class Flappy bird here.
  *
- * @author (Beau & Daniel)hi
+ * @author (Beau & Daniel)
  * @version (a version number or a date)
  */
 public class Mayo
