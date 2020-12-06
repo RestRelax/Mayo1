@@ -2,7 +2,7 @@
 /**
  * Write a description of class Mayo here.
  *
- * @author (Beau & Daniel)
+ * @author (Beau & Daniel)hi
  * @version (a version number or a date)
  */
 public class Mayo
