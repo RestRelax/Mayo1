@@ -1,6 +1,6 @@
 
 /**
- * Write a description of class Mayo here.
+ * Write a description of class Flappy Bird here.
  *
  * @author (Beau & Daniel)
  * @version (a version number or a date)
